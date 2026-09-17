@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.manutencaogarcia.com.br/sitemap.xml
